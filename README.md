@@ -5,8 +5,9 @@ Embedded Python Custom Installer.
 This software is provided for educational and personal use only.
 Commercial or business use is **not recommended**.
 
-Because installation files are hosted on `catbox.moe`, there is no guarantee that the installation command will always point to the correct or expected file.
-If you want greater certainty and transparency regarding the files, download and review them directly from the `/source` folder instead.
+> [!WARNING]
+> Because installation files are hosted on `catbox.moe`, there is no guarantee that the installation command will always point to the correct or expected file.
+> If you want greater certainty and transparency regarding the files, download and review them directly from the `/source` folder instead.
 
 This project is **not affiliated with or officially endorsed by the Python Software Foundation or Python** in any way.
 
