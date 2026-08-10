@@ -1,6 +1,8 @@
 # Embedded Python Custom Installer 3.12 (CEP312)
 Embedded Python Custom Installer.
 
+<img src="https://img.shields.io/badge/Batch-4D4D4D?logo=windows&logoColor=white">
+
 ## Disclaimer
 This software is provided for educational and personal use only.
 Commercial or business use is **not recommended**.
